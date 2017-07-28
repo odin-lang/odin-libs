@@ -1,7 +1,7 @@
 # Odin Libs
 A list of Odin libraries, wrappers and bindings.
 
-If you want a project listed here, make an issue stating the name, description and link.
+If you want a project listed here, make an issue stating the name, description and link or a pull request.
 It does not have to be on github.
 
 ### Categories:
