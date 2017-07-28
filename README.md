@@ -2,9 +2,9 @@
 A list of Odin libraries, wrappers and bindings.
 
 ### Categories:
-  - [Libraries](#Libraries)
-  - [Bindings](#Bindings)
-  - [Wrappers](#Wrappers)
+  - [Libraries](#libraries)
+  - [Bindings](#bindings)
+  - [Wrappers](#wrappers)
 
 # Libraries
 | Name                                                    | Description                              
