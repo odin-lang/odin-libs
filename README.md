@@ -20,6 +20,7 @@ It does not have to be on github.
 | [odin-glfw](https://github.com/vassvik/odin-glfw) | A binding for GLFW   
 | [odin-rift](https://github.com/vassvik/odin-rift) | A binding for the Oculus SDK for the rift
 | [odin-gl](https://github.com/vassvik/odin-gl)     | A binding for Core OpenGL 4.5
+| [odin-sdl2](https://github.com/shuaDev/odin-sdl2) | A binding for SDL2 
 # Wrappers
 | Name      | Description                              
 |-----------|---------------------
