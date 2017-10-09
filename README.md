@@ -17,6 +17,7 @@ It does not have to be on github.
 # Bindings
 | Name                                              | Description                              
 |---------------------------------------------------|---------------------
+| [odin-al](https://github.com/thebirk/odin-al)     | A binding for OpenAL
 | [odin-glfw](https://github.com/vassvik/odin-glfw) | A binding for GLFW   
 | [odin-rift](https://github.com/vassvik/odin-rift) | A binding for the Oculus SDK for the rift
 | [odin-gl](https://github.com/vassvik/odin-gl)     | A binding for Core OpenGL 4.5
