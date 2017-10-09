@@ -21,6 +21,8 @@ It does not have to be on github.
 | [odin-rift](https://github.com/vassvik/odin-rift) | A binding for the Oculus SDK for the rift
 | [odin-gl](https://github.com/vassvik/odin-gl)     | A binding for Core OpenGL 4.5
 | [odin-sdl2](https://github.com/shuaDev/odin-sdl2) | A binding for SDL2 
+| [odin-enet](https://github.com/zpl-c/odin-enet)   | A binding for ENet
+| [odin-librg](https://github.com/librg/librg-odin) | A binding for librg
 # Wrappers
 | Name      | Description                              
 |-----------|---------------------
