@@ -27,5 +27,5 @@ It does not have to be on github.
 # Wrappers
 | Name      | Description                              
 |-----------|---------------------
-| Dear-Odin | (Link incoming)A wrapper for Dear ImGui based on cimgui 
+| [odin-dear_imgui](https://github.com/ThisDrunkDane/odin-dear_imgui) | A wrapper for Dear ImGui based on cimgui 
 | gl-odin   | (Link incoming)A wrapper for OpenGL 3.3
