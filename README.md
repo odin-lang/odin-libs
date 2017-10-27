@@ -24,7 +24,8 @@ It does not have to be on github.
 | [odin-sdl2](https://github.com/shuaDev/odin-sdl2) | A binding for SDL2 
 | [odin-enet](https://github.com/zpl-c/odin-enet)   | A binding for ENet
 | [odin-librg](https://github.com/librg/librg-odin) | A binding for librg
-# Wrappers
+| [odin-xinput](https://github.com/ThisDrunkDane/odin-xinput) | A binding for xinput
+# Wrappers 
 | Name      | Description                              
 |-----------|---------------------
 | [odin-dear_imgui](https://github.com/ThisDrunkDane/odin-dear_imgui) | A wrapper for Dear ImGui based on cimgui 
