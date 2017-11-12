@@ -25,6 +25,7 @@ It does not have to be on github.
 | [odin-enet](https://github.com/zpl-c/odin-enet)   | A binding for ENet
 | [odin-librg](https://github.com/librg/librg-odin) | A binding for librg
 | [odin-xinput](https://github.com/ThisDrunkDane/odin-xinput) | A binding for xinput
+| [odin-zeromq](https://github.com/zaklaus/odin-zeromq)       | A binding for ZeroMQ
 # Wrappers 
 | Name      | Description                              
 |-----------|---------------------
