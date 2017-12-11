@@ -26,6 +26,7 @@ It does not have to be on github.
 | [odin-librg](https://github.com/librg/librg-odin) | A binding for librg
 | [odin-xinput](https://github.com/ThisDrunkDane/odin-xinput) | A binding for xinput
 | [odin-zeromq](https://github.com/zaklaus/odin-zeromq)       | A binding for ZeroMQ
+| [odin-stb](https://github.com/vassvik/odin-stb)   | A binding for the stb libraries
 # Wrappers 
 | Name      | Description                              
 |-----------|---------------------
