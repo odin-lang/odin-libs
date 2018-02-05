@@ -27,6 +27,7 @@ It does not have to be on github.
 | [odin-xinput](https://github.com/ThisDrunkDane/odin-xinput) | A binding for xinput
 | [odin-zeromq](https://github.com/zaklaus/odin-zeromq)       | A binding for ZeroMQ
 | [odin-stb](https://github.com/vassvik/odin-stb)   | A binding for the stb libraries
+| [odin-gtk2](https://github.com/ReneHSZ/odin-gtk2) | A binding for GTK+2
 # Wrappers 
 | Name      | Description                              
 |-----------|---------------------
