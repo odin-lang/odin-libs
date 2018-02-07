@@ -28,6 +28,7 @@ It does not have to be on github.
 | [odin-zeromq](https://github.com/zaklaus/odin-zeromq)       | A binding for ZeroMQ                      | [![license](https://img.shields.io/github/license/zaklaus/odin-zeromq.svg)](https://github.com/zaklaus/odin-zeromq/blob/master/LICENSE) 
 | [odin-stb](https://github.com/vassvik/odin-stb)             | A binding for the stb libraries           | [![license](https://img.shields.io/github/license/vassvik/odin-stb.svg)](https://github.com/vassvik/odin-stb/blob/master/LICENSE) 
 | [odin-gtk2](https://github.com/ReneHSZ/odin-gtk2)           | A binding for GTK+2                       | [![license](https://img.shields.io/github/license/ReneHSZ/odin-gtk2.svg)](https://github.com/ReneHSZ/odin-gtk2/blob/master/LICENSE) 
+| [odin-openssl](https://github.com/ReneHSZ/odin-openssl)     | A binding for OpenSSL                     | [![license](https://img.shields.io/github/license/ReneHSZ/odin-openssl.svg)](https://github.com/ReneHSZ/odin-openssl/blob/master/LICENSE) 
 # Wrappers 
 | Name                                                                | Description                              | License        
 |---------------------------------------------------------------------|------------------------------------------|------------
