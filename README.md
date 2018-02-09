@@ -29,6 +29,7 @@ It does not have to be on github.
 | [odin-stb](https://github.com/vassvik/odin-stb)             | A binding for the stb libraries           | [![Missing](https://img.shields.io/github/license/vassvik/odin-stb.svg)](https://github.com/vassvik/odin-stb/blob/master/LICENSE) 
 | [odin-gtk2](https://github.com/ReneHSZ/odin-gtk2)           | A binding for GTK+2                       | [![MIT](https://img.shields.io/github/license/ReneHSZ/odin-gtk2.svg)](https://github.com/ReneHSZ/odin-gtk2/blob/master/LICENSE) 
 | [odin-openssl](https://github.com/ReneHSZ/odin-openssl)     | A binding for OpenSSL                     | [![BSD-2-Clause](https://img.shields.io/github/license/ReneHSZ/odin-openssl.svg)](https://github.com/ReneHSZ/odin-openssl/blob/master/LICENSE) 
+| [odin-miniz](https://github.com/ReneHSZ/odin-miniz)         | A binding for miniz                       | [![Unlicense](https://img.shields.io/github/license/ReneHSZ/odin-miniz.svg)](https://github.com/ReneHSZ/odin-miniz/blob/master/LICENSE) 
 # Wrappers 
 | Name                                                                | Description                              | License        
 |---------------------------------------------------------------------|------------------------------------------|------------
