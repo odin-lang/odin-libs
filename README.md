@@ -14,7 +14,7 @@ It does not have to be on github.
 |---------------------------------------------------------|-------------------------------------------------|-----------------------
 | [odin-gl_font](https://github.com/vassvik/odin-gl_font) | A library for quickly setting up font rendering | [![Missing](https://img.shields.io/github/license/vassvik/odin-gl_font.svg)](https://github.com/vassvik/odin-gl_font/blob/master/LICENSE) 
 | [Libbrew](https://github.com/ThisDrunkDane/libbrew)     | A library for quick prototyping and more        | [![MIT](https://img.shields.io/github/license/ThisDrunkDane/libbrew.svg)](https://github.com/ThisDrunkDane/libbrew/blob/master/LICENSE) 
-| [odin-json](https://github.com/bpunsky/odin-json) | An Odin-native parser for JSON and JSON5 that features marshalling and unmarshalling. | [![Missing](https://img.shields.io/github/license/bpunsky/odin-json.svg)](https://github.com/vassvik/odin-gl_font/blob/master/LICENSE) 
+| [odin-json](https://github.com/bpunsky/odin-json)       | An Odin-native parser for JSON with (un-)marshalling | [![Missing](https://img.shields.io/github/license/bpunsky/odin-json.svg)](https://github.com/vassvik/odin-gl_font/blob/master/LICENSE) 
 # Bindings
 | Name                                                        | Description                               | License                    
 |-------------------------------------------------------------|-------------------------------------------|-----------------
