@@ -33,4 +33,4 @@ It does not have to be on github.
 # Wrappers 
 | Name                                                                | Description                              | License        
 |---------------------------------------------------------------------|------------------------------------------|------------
-| [odin-dear_imgui](https://github.com/ThisDrunkDane/odin-dear_imgui) | A wrapper for Dear ImGui based on cimgui | [![MIT](https://img.shields.io/github/license/ThisDrunkDane/odin-dear_imgui.svg)](https://github.com/ThisDrunkDane/odin-dear_imgui/blob/master/LICENSE) 
+| [odin-imgui](https://github.com/ThisDrunkDane/odin-imgui) | A wrapper for Dear ImGui based on cimgui | [![MIT](https://img.shields.io/github/license/ThisDrunkDane/odin-imgui.svg)](https://github.com/ThisDrunkDane/odin-imgui/blob/master/LICENSE) 
