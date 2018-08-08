@@ -18,7 +18,8 @@ It does not have to be on github.
 # Bindings
 | Name                                                        | Description                               | License                    
 |-------------------------------------------------------------|-------------------------------------------|-----------------
-| [odin-al](https://github.com/thebirk/odin-al)               | A binding for OpenAL                      | [![Unlicense](https://img.shields.io/github/license/thebirk/odin-al.svg)](https://github.com/thebirk/odin-al/blob/master/LICENSE) 
+| [odin-al](https://github.com/thebirk/odin-al)               | A binding for OpenAL                      | [![MIT](https://img.shields.io/github/license/thebirk/odin-al.svg)](https://github.com/thebirk/odin-al/blob/master/LICENSE) 
+| [odin-termbox](https://github.com/thebirk/odin-termbox)     | A binding for [termbox](https://github.com/nsf/termbox)                   | [![MIT](https://img.shields.io/github/license/thebirk/odin-termbox.svg)](https://github.com/thebirk/odin-termbox/blob/master/LICENSE) 
 | [odin-glfw](https://github.com/vassvik/odin-glfw)           | A binding for GLFW                        | [![Unknown](https://img.shields.io/github/license/vassvik/odin-glfw.svg)](https://github.com/vassvik/odin-glfw/blob/master/LICENSE) 
 | [odin-rift](https://github.com/vassvik/odin-rift)           | A binding for the Oculus SDK for the rift | [![Unlicense](https://img.shields.io/github/license/vassvik/odin-rift.svg)](https://github.com/vassvik/odin-rift/blob/master/LICENSE) 
 | [odin-gl](https://github.com/vassvik/odin-gl)               | A binding for Core OpenGL 4.5             | [![MIT](https://img.shields.io/github/license/vassvik/odin-gl.svg)](https://github.com/vassvik/odin-gl/blob/master/LICENSE) 
