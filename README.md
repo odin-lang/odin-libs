@@ -1,13 +1,21 @@
 # Odin Libs
-A list of Odin libraries, wrappers and bindings.
+A list of Odin projects, libraries, wrappers and bindings.
 
 If you want a project listed here, make an issue stating the name, description and link or a pull request.
 It does not have to be on github.
 
 ### Categories:
+  - [Editor Support](#editor-support)
   - [Libraries](#libraries)
   - [Bindings](#bindings)
   - [Wrappers](#wrappers)
+
+# Editor Support
+| Name                                                    | Description                                     | License
+|---------------------------------------------------------|-------------------------------------------------|-----------------------
+| [sublime-odin](https://github.com/odin-lang/sublime-odin) | Odin syntax definition for Sublime Text       | ![Missing](https://img.shields.io/github/license/odin-lang/sublime-odin.svg)
+| [odin-mode](https://github.com/mattt-b/odin-mode)       | Odin editing mode for GNU/Emacs                 | ![Missing](https://img.shields.io/github/license/mattt-b/odin-mode.svg)
+| [flycheck-odin](https://github.com/mattt-b/flycheck-odin) | GNU/Emacs flycheck support for Odin           | [![Unlicense](https://img.shields.io/github/license/mattt-b/flycheck-odin.svg)](https://github.com/mattt-b/flycheck-odin/blob/master/LICENSE)
 
 # Libraries
 | Name                                                    | Description                                     | License                    
