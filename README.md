@@ -45,6 +45,8 @@ It does not have to be on github.
 | [odin-miniz](https://github.com/ReneHSZ/odin-miniz)         | A binding for [miniz](https://github.com/richgel999/miniz) | [![Unlicense](https://img.shields.io/github/license/ReneHSZ/odin-miniz.svg)](https://github.com/ReneHSZ/odin-miniz/blob/master/LICENSE) 
 | [odin-sock](https://github.com/ReneHSZ/odin-sock)           | A binding for [Berkeley Sockets](https://en.wikipedia.org/wiki/Berkeley_sockets) | [![Unlicense](https://img.shields.io/github/license/ReneHSZ/odin-sock.svg)](https://github.com/ReneHSZ/odin-sock/blob/master/LICENSE) 
 | [odin-WinMM](https://github.com/ReneHSZ/odin-WinMM)         | A binding to the Windows Multimedia API   | [![BSD-2-Clause](https://img.shields.io/github/license/ReneHSZ/odin-WinMM.svg)](https://github.com/ReneHSZ/odin-WinMM/blob/master/LICENSE) 
+| [odin-lua](https://github.com/SrMordred/odin-lua)           | A binding for [Lua](https://www.lua.org/)               | [![MIT](https://img.shields.io/github/license/srmordred/odin-lua)](https://github.com/SrMordred/odin-lua/blob/master/LICENSE) 
+
 
 # Wrappers 
 | Name                                                      | Description                                                                                                      | License        
