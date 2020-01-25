@@ -24,6 +24,7 @@ It does not have to be on github.
 | [Libbrew](https://github.com/ThisDrunkDane/libbrew)     | A library for quick prototyping and more        | [![MIT](https://img.shields.io/github/license/ThisDrunkDane/libbrew.svg)](https://github.com/ThisDrunkDane/libbrew/blob/master/LICENSE) 
 | [odin-json](https://github.com/bpunsky/odin-json)       | An Odin-native parser for JSON with (un-)marshalling | [![Missing](https://img.shields.io/github/license/bpunsky/odin-json.svg)](https://github.com/bpunsky/odin-json/blob/master/LICENSE) 
 | [bindgen](https://github.com/Breush/odin-binding-generator) | An Odin library to convert a C header file into an Odin binding file. | [![MIT](https://img.shields.io/github/license/Breush/odin-binding-generator.svg)](https://github.com/Breush/odin-binding-generator/blob/master/license.txt)
+| [odin-unittest](https://github.com/zhibog/odin-unittest) | An Odin unit testing library. | [![MIT](https://img.shields.io/github/license/zhibog/odin-unittest.svg)](https://github.com/zhibog/odin-unittest/blob/master/license.txt)
 
 # Bindings
 | Name                                                        | Description                                             | License                    
