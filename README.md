@@ -1,3 +1,5 @@
+## This list has been moved the wiki on the odin compiler project [here](https://github.com/odin-lang/Odin/wiki/Odin-Libs)
+
 # Odin Libs
 A list of Odin projects, libraries, wrappers and bindings.
 
